@@ -45,7 +45,7 @@ li a:hover {
 
  /* unvisited link */
 a:link {
-  color: red;
+  color: fuchsia;
 }
 
 /* visited link */
